@@ -59,7 +59,7 @@ PORT-SCANNER/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/himanshukumarrout/PORT-SCANNER.git
+git clone https://github.com/HimanshuKumarRout/PORT-SCANNER.git
 cd port-scanner
 ```
 

@@ -101,7 +101,7 @@ Scanning host: example.com
 Port 80 is OPEN
 Port 443 is OPEN
 
-Scan completed in 2.14 seconds
+Scan completed in 2.146 seconds
 ```
 
 ---
